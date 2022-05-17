@@ -141,7 +141,7 @@ SKILLS
 * C
 * C++ 
 
-## Security related tools:
+## Security Related Tools:
 * IDA
 * GDB
 * Nmap
