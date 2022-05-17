@@ -143,14 +143,14 @@ Currently working on the Interoperability and Security challenges associated wit
 Skills
 ------
 
-## Programming Languages:
+# Programming Languages:
 * Python
 
 * C
 
 * C++ 
 
-## Security Related Tools:
+# Security Related Tools:
 * IDA
 
 * GDB
@@ -177,14 +177,14 @@ Skills
 
 * Dirbuster
 
-## Operating Systems:
+# Operating Systems:
 * Kali Linux 
 
 * Linux(Ubuntu) 
 
 * Windows XP/7/8.0/8.1/10   
 
-## Miscellaneous: 
+# Miscellaneous: 
 * Django 
 
 * LaTeX 
