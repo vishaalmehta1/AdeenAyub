@@ -65,13 +65,22 @@ WORK EXPERIENCE
 
 ### Research Assistant at SAFE Lab, Virginia Commonwealth University
 
+Interests: Industrial Control Systems vulnerabilities, Memory Forensics, Reverse
+Engineering
+
 Richmond, Virginia Feb 2020 - Current
 
 ### Teaching Assistant at Virginia Commonwealth University
 
+Worked as TA for Fundamentals Software Engineer. Assisted Professor in
+grading assignments and holding labs
+
 Richmond, Virginia Aug 2021 - Dec 2021
 
 ### Contract Penetration Tester at Defiant, Inc
+
+Tested the network infrastructure and web applications to find vulnerabilities
+and provided a report of findings
 
 Richmond, Virginia Oct 2019 - Nov 2019
 
