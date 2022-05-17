@@ -23,7 +23,6 @@ Richmond, Virginia
 
 January 2020 - Present
 
-* University of Engineering and Technology
 
 #### MS in Cyber Security (CGPA: 3.540)
 
