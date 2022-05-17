@@ -219,10 +219,8 @@ MAJOR SUBJECTS
 
 Publications
 ------------
-* Bilal Imran, Muhammad Ahsan, Ali Hammad Akbar, Ghalib A. Shah, "SecGW: On Providing DTLS based Multi-threading in MQTT-SN Gateway Application", (In-Progress)
+* [DFRWS EU]. Nauman Zubair, Adeen Ayub, Hyunguk Yoo, Irfan Ahmed, “PEM: Remote Forensic Acquisitionof PLC Memory in Industrial Control Systems”, In the 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom
 
-* Muhammad Ahsan, Bilal Afzal, Bilal Imran, Asim Tanwir, Ali Hammad Akbar and Galib. A. Shah. "OneM2M Architecture Based Secure MQTT Binding in Mbed OS", SSIoT 2019 - IEEE Euro S&P Workshop on Software Security for Internet of Things.
+* [WOOT]. Adeen Ayub, Hyunguk Yoo, Irfan Ahmed, “Empirical Study of PLC Authentication Protocols in Industrial Control Systems”, In the 15th IEEE Workshop on Offensive Technologies (WOOT’21), co-located with the 42nd IEEE Symposium on Security and Privacy and in cooperation with Usenix, San Francisco, CA, May 2021 (held virtually)
 
-* Bilal Imran, Bilal Afzal, Dr. Ali Hammad Akbar, Muhammad Ahsan, Dr. Ghalib A. Shah. "MISA: Minimalist Implementation of oneM2M Security Architecture for Constrained IoT Devices", IEEE Globecom 2019.
-
-* Muhammad Ahsan, Naseer Ahmad, Waqas Badar. "Simulation of Solar angles for maximizing Efficiency of Solar Thermal Collectors", 3rd International Conference on Energy Conservation and Efficiency (ICECE), 2019.
+* [ICCIP]. Syed Ali Qasim, Adeen Ayub, Jordan Johnson, Irfan Ahmed, “Attacking IEC-61131 Logic Engine in Programmable Logic Controllers in Industrial Control Systems”, In the 15th IFIP International Conference on Critical Infrastructure Protection (ICCIP), March 2021, Arlington, Virginia (held virtually)
