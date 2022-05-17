@@ -135,21 +135,40 @@ Currently working on the Interoperability and Security challenges associated wit
 
 SKILLS
 ------
-* STM32 Nucleo-64 boards 
 
-* Embedded C 
+## Programming Languages:
+* Python, 
+* C
+* C++ 
 
-* MBed OS (Open-Source Embedded Operating System)   
+## Security related tools:
+* IDA
+* GDB
+* Nmap
+* ZAProxy
+* BurpSuite
+* Metasploit
+* Nikto
+* OpenVAS
+* Meterpreter
+JohnTheRipper
+Hashcat
+Scapy
+Wireshark
+Dirbuster
 
-* USART, SPI and ADC/DAC protocol for sensor interfacing
+## Operating Systems:
+* Kali Linux 
+* Linux(Ubuntu) 
+* Windows XP/7/8.0/8.1/10   
 
-* Raspberry Pi 3
+## Miscellaneous: 
+* Django 
+* LaTeX 
+* GitHub 
+* MySQL
 
-* Python
 
-* Arduino Boards
-
-* ESP8266 Module
 
 MAJOR SUBJECTS
 --------------
