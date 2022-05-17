@@ -144,35 +144,53 @@ Skills
 ------
 
 ## Programming Languages:
-* Python, 
+* Python
+
 * C
+
 * C++ 
 
 ## Security Related Tools:
 * IDA
+
 * GDB
+
 * Nmap
+
 * ZAProxy
+
 * BurpSuite
+
 * Metasploit
+
 * Nikto
+
 * OpenVAS
-* Meterpreter
-JohnTheRipper
-Hashcat
-Scapy
-Wireshark
-Dirbuster
+
+* Meterpreter 
+
+* JohnTheRipper 
+
+* HashcatScapy 
+
+* Wireshark 
+
+* Dirbuster
 
 ## Operating Systems:
 * Kali Linux 
+
 * Linux(Ubuntu) 
+
 * Windows XP/7/8.0/8.1/10   
 
 ## Miscellaneous: 
 * Django 
+
 * LaTeX 
+
 * GitHub 
+
 * MySQL
 
 
