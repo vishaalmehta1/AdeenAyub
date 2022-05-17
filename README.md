@@ -122,23 +122,14 @@ Currently working on the Interoperability and Security challenges associated wit
 
 ### Projects Undertaken:
 
-* Firewall rules Analyzing, Writing and Testing for SCADA/IoT Protocols
+* [HotSoS]. Adeen Ayub, Hyunguk Yoo, Irfan Ahmed, “Empirical Study of PLC Authentication Protocols in Industrial Control Systems”, In the 9th Annual Hot Topics in the Science of Security (HotSoS) Symposium, Urbana-Champagne, Illinois, April 2022. (Presentation)
 
-* Use of different tools for Scanning, Sniffing, Spoofing, MITM and other Attack Vectors generation. 
+* [WiCyS]. Adeen Ayub, Irfan Ahmed, Hyunguk Yoo, “ROP on PLCs”, In the 9th Annual Women in Cybersecurity (WiCyS) Conference, Cleveland, OH, March 2022. 
 
-* Common Vulnerabilities and Exposures (CVE) reproduction for generation of different attacks on network to test Firewall rules
+* [WiCyS]. Adeen Ayub, Irfan Ahmed, Hyunguk Yoo, “Empirical Analysis of PLC Authentication Protocols in Industrial Control Systems”, In the 8th Annual Women in Cybersecurity (WiCyS) Conference, Denver, CO, September 2021.
 
-* Automation of Paddy Dryer for Rice Mill industry and UET Water Tanks 
+* [WiCyS]. Nixy Camacho, Adeen Ayub, Irfan Ahmed, Hyunguk Yoo, “Automating Binary Analysis of PLCs”, In the 8th Annual Women in Cybersecurity (WiCyS) Conference, Denver, CO, September 2021. (Poster)
 
-* Simulation and Modeling of Solar angles for Tracking Surface in MATLAB 
-
-* PLC SCADA control for Dual Axis Solar Tracking System
-
-* Design and Development of Motor Test Bench for PCSIR Laboratories 
-
-* Short Course Instructor for Programmable Logic Controller (PLC)
-
-* Development of Energy Efficiency Advisory course in collaboration with sequa gGmbH – GiZ
 
 Skills
 ------
@@ -195,7 +186,7 @@ Skills
 
 
 
-MAJOR SUBJECTS
+Major Subjects
 --------------
 * Network Security   
 
