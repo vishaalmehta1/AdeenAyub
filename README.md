@@ -52,8 +52,8 @@ Awards and Honors
 
 * Recipient of WiCyS conference scholarship, March 2022
 
-#### TECHNICAL WORKSHOPS AND TALKS
-
+Technical Workshops and Talks
+==============
 * [DFRWS EU]. “Network Forensics of Industrial Control Systems”, In the 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom. (2-hour workshop)
 
 * [DFRWS]. “Understanding and Subverting PLC Password Authentication in Industrial Control Systems”, In the 20th Annual Digital Forensics Research Conference (DFRWS’20), July 2020, Memphis, TN. (held virtually) (3-minute Lightning Talk)
