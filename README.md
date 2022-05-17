@@ -1,10 +1,10 @@
 
 
-Email: [ahsanm5@vcu.edu](mailto:ahsanm5@vcu.edu)
+Email: [ayuba2@vcu.edu](mailto:ayuba2@vcu.edu)
 
 Github: mahsan321
 
-Phone Number: +1 804-591-6460
+Phone Number: +1 804-489-3632
 
 Education
 ==============
