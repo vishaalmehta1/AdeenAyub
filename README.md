@@ -42,21 +42,15 @@ Islamabad, Pakistan
 September 2012 - June 2016
 
 
-## M.Sc. THESIS
+## Awards and Honors
 
+* Best Paper Award 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom
 
+* Best Graduate Research Poster Award 8th Annual Women in Cybersecurity (WiCyS) Conference, Denver, CO
 
+* Won Laptop and internet device in Pakistan’s Prime Minister’s Laptop Scheme (based on class ranking) in 2016
 
-
-##### Title: Buffer Overflow Attacks and their Software assisted Protection in Computer Systems
-
-* Exploited 32-bit Operating Systems by attacking buffer overflow vulnerable applications 
-
-* Used penetration testing tools including Kali Linux and Immunity Debugger
-
-* Proposed an Encryption Algorithm as an attack prevention mechanism 
-
-* Analyzed proposed algorithm using different attack vectors
+* Recipient of WiCyS conference scholarship, March 2022
 
 B.Sc. FINAL YEAR PROJECT
 ------------------------
