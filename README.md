@@ -2,7 +2,7 @@
 
 Email: [ayuba2@vcu.edu](mailto:ayuba2@vcu.edu)
 
-Github: mahsan321
+Github: adeenayub
 
 Phone Number: +1 804-489-3632
 
