@@ -42,13 +42,6 @@ Islamabad, Pakistan
 September 2012 - June 2016
 
 
-Volunteering
-==============
-### Teaching Assistant at Summer Innovation Camp 2021
-* Coached middle and high school students into developing innovative solutions, lead brainstorming activities
-and fostered team building through real-world problems via the corporate partner scenarios
-
-
 Awards and Honors
 ==============
 * Best Paper Award 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom
@@ -60,11 +53,18 @@ Awards and Honors
 * Recipient of WiCyS conference scholarship, March 2022
 
 Technical Workshops and Talks
-==============
+----------
 * [DFRWS EU]. “Network Forensics of Industrial Control Systems”, In the 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom. (2-hour workshop)
 
 * [DFRWS]. “Understanding and Subverting PLC Password Authentication in Industrial Control Systems”, In the 20th Annual Digital Forensics Research Conference (DFRWS’20), July 2020, Memphis, TN. (held virtually) (3-minute Lightning Talk)
 
+
+
+Volunteering
+==============
+### Teaching Assistant at Summer Innovation Camp 2021
+* Coached middle and high school students into developing innovative solutions, lead brainstorming activities
+and fostered team building through real-world problems via the corporate partner scenarios
 
 
 Work Experience
