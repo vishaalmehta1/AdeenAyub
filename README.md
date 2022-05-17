@@ -42,7 +42,7 @@ Islamabad, Pakistan
 September 2012 - June 2016
 
 
-## Awards and Honors
+#### AWARDS AND HONORS
 
 * Best Paper Award 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom
 
@@ -52,21 +52,29 @@ September 2012 - June 2016
 
 * Recipient of WiCyS conference scholarship, March 2022
 
-B.Sc. FINAL YEAR PROJECT
-------------------------
+#### TECHNICAL WORKSHOPS AND TALKS
 
-### Title: Next generation Unmanned Ground Vehicle
+* [DFRWS EU]. “Network Forensics of Industrial Control Systems”, In the 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom. (2-hour workshop)
 
-The project includes the following Features:
+* [DFRWS]. “Understanding and Subverting PLC Password Authentication in Industrial Control Systems”, In the 20th Annual Digital Forensics Research Conference (DFRWS’20), July 2020, Memphis, TN. (held virtually) (3-minute Lightning Talk)
 
-Autonomous mode, Wireless and Voice operated, Live Video stream, Real Time Image Processing, Car No. Plate Recognition, Image Database, Calculate Object Distance from Camera.
 
-EXPERIENCE
+
+WORK EXPERIENCE
 ----------
 
-### Al-Khawarizmi Institute of Computer Science (KICS) Position: Team Lead
+### Research Assistant at SAFE Lab, Virginia Commonwealth University
 
-UET, Lahore Oct 2014 - Current
+Richmond, Virginia Feb 2020 - Current
+
+### Teaching Assistant at Virginia Commonwealth University
+
+Richmond, Virginia Aug 2021 - Dec 2021
+
+### Contract Penetration Tester at Defiant, Inc
+
+Richmond, Virginia Oct 2019 - Nov 2019
+
 
 ### Current Project:
 
