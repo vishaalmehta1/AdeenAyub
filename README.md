@@ -111,7 +111,7 @@ Currently working on the Interoperability and Security challenges associated wit
 
 * DTLS Support for MQTT-SN Multi-threaded Gateway Application
 
-[GitHub Link:](https://github.com/AikM2M) [https://github.com/AikM2M](https://github.com/AikM2M)
+[GitHub Link:](https://github.com/adeenayub) [https://github.com/AikM2M](https://github.com/adeenayub)
 
 ### Projects Undertaken:
 
