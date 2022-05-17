@@ -42,6 +42,13 @@ Islamabad, Pakistan
 September 2012 - June 2016
 
 
+Volunteering
+==============
+### Teaching Assistant at Summer Innovation Camp 2021
+* Coached middle and high school students into developing innovative solutions, lead brainstorming activities
+and fostered team building through real-world problems via the corporate partner scenarios
+
+
 Awards and Honors
 ==============
 * Best Paper Award 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom
@@ -201,9 +208,3 @@ Publications
 * Bilal Imran, Bilal Afzal, Dr. Ali Hammad Akbar, Muhammad Ahsan, Dr. Ghalib A. Shah. "MISA: Minimalist Implementation of oneM2M Security Architecture for Constrained IoT Devices", IEEE Globecom 2019.
 
 * Muhammad Ahsan, Naseer Ahmad, Waqas Badar. "Simulation of Solar angles for maximizing Efficiency of Solar Thermal Collectors", 3rd International Conference on Energy Conservation and Efficiency (ICECE), 2019.
-
-EXTRA CURRICULAR ACTIVITIES
----------------------------
-* ICOSST’16, ICOSST’17, ICOSST’18 and ICOSST’19 Event Organizer.
-
-* ICECE’17 and ICECE’18 Event Organizer.
