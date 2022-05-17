@@ -61,7 +61,7 @@ Technical Workshops and Talks
 
 
 Volunteering
-==============
+----------
 ### Teaching Assistant at Summer Innovation Camp 2021
 * Coached middle and high school students into developing innovative solutions, lead brainstorming activities
 and fostered team building through real-world problems via the corporate partner scenarios
