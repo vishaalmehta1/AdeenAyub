@@ -15,25 +15,32 @@ Education
 
 * National University of Sciences and Technology
 
-#### Master of Electrical Engineering (CGPA: 3.75)
+#### PhD in Computer Science (CGPA: 3.75)
 
   
 
-Lahore, Pakistan 
+Richmond, Virginia
 
-June 2018
+January 2020 - Present
 
 * University of Engineering and Technology
 
-#### B.Sc. Electrical Engineering (CGPA: 3.70)
+#### MS in Cyber Security (CGPA: 3.540)
 
   
 
-Lahore, Pakistan
+New York, USA
 
-June 2014
+Januray 2018 - May 2019
 
 
+#### B.E Software Engineering (CGPA: 3.39)
+
+  
+
+Islamabad, Pakistan
+
+September 2012 - June 2016
 
 
 ## M.Sc. THESIS
