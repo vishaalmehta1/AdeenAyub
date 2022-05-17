@@ -11,7 +11,9 @@ Education
 
 * Virginia Commonwealth University (VCU)
 
-* University of Engineering and Technology
+* New York University (NYU)
+
+* National University of Sciences and Technology
 
 #### Master of Electrical Engineering (CGPA: 3.75)
 
