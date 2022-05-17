@@ -60,7 +60,7 @@ Technical Workshops and Talks
 
 
 
-WORK EXPERIENCE
+Work Experience
 ----------
 
 ### Research Assistant at SAFE Lab, Virginia Commonwealth University
@@ -133,7 +133,7 @@ Currently working on the Interoperability and Security challenges associated wit
 
 * Development of Energy Efficiency Advisory course in collaboration with sequa gGmbH – GiZ
 
-SKILLS
+Skills
 ------
 
 ## Programming Languages:
@@ -192,7 +192,7 @@ MAJOR SUBJECTS
 
 * Advance Operating System
 
-PUBLICATIONS
+Publications
 ------------
 * Bilal Imran, Muhammad Ahsan, Ali Hammad Akbar, Ghalib A. Shah, "SecGW: On Providing DTLS based Multi-threading in MQTT-SN Gateway Application", (In-Progress)
 
@@ -207,9 +207,3 @@ EXTRA CURRICULAR ACTIVITIES
 * ICOSST’16, ICOSST’17, ICOSST’18 and ICOSST’19 Event Organizer.
 
 * ICECE’17 and ICECE’18 Event Organizer.
-
-AWARDS AND ACHIEVEMENTS
------------------------
-* Awarded 5 times dean’s honor certificate in B.Sc. for 1st, 2nd, 3rd, 6th and 7th semester. Received Degree in B.Sc. Electrical Engineering with Honors.
-
-* Received Degree in B.S. Electrical Engineering with Honors
