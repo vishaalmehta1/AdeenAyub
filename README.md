@@ -120,9 +120,6 @@ Currently working on the Interoperability and Security challenges associated wit
 
 [GitHub Link:](https://github.com/adeenayub) [https://github.com/AikM2M](https://github.com/adeenayub)
 
-<li>
-<a href= #Education>#Education</a>
-<li>
 
 ### Projects Undertaken:
 
