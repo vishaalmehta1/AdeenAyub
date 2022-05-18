@@ -43,7 +43,7 @@ September 2012 - June 2016
 
 
 Awards and Honors
-==============
+--------------
 * Best Paper Award 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom
 
 * Best Graduate Research Poster Award 8th Annual Women in Cybersecurity (WiCyS) Conference, Denver, CO
@@ -68,7 +68,7 @@ and fostered team building through real-world problems via the corporate partner
 
 
 Work Experience
-==============
+--------------
 
 ### Research Assistant at SAFE Lab, Virginia Commonwealth University
 
