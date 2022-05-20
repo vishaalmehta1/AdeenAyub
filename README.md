@@ -7,8 +7,7 @@ Github: adeenayub
 Phone Number: +1 804-489-3632
 
 Education
-==============
-
+--------------
 * Virginia Commonwealth University (VCU)
 
 * New York University (NYU)
