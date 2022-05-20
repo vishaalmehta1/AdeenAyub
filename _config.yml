@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 logo: IMG_20200220_143932.jpg
 title: Adeen Ayub
- <br><br>
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
   PhD Scholar
   <br>
   <a href="https://safe.lab.vcu.edu/people/">Security and Forensics Investigation (SAFE) Lab</a>
@@ -11,3 +12,5 @@ title: Adeen Ayub
   <a href="https://www.linkedin.com/in/muhammad-ahsan-807a3969/">View My LinkedIn Profile</a> 
   <br><br><br>
   Complete Resume <a href="https://raw.githubusercontent.com/vishaalmehta1/MuhammadAhsan/blob/Markdown/resume.pdf">here </a>
+  
+theme: jekyll-theme-minimal
