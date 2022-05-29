@@ -4,9 +4,9 @@
 
 Email: [ayuba2@vcu.edu](mailto:ayuba2@vcu.edu)
 <br>
-[LinkedIn]:(https://www.linkedin.com/in/adeenayub/)
+LinkedIn:[LinkedIn](https://www.linkedin.com/in/adeenayub/)
 <br>
-[Twitter]:(https://twitter.com/adeenayub)
+Twitter:[Twitter](https://twitter.com/adeenayub)
 <br>
 Github: adeenayub
 <br>
