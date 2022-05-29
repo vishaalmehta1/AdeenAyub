@@ -4,13 +4,13 @@
 
 Email: [ayuba2@vcu.edu](mailto:ayuba2@vcu.edu)
 <br>
+Phone Number: +1 804-489-3632
+<br>
 [LinkedIn](https://www.linkedin.com/in/adeenayub/)
 <br>
 [Twitter](https://twitter.com/adeenayub)
 <br>
 Github: adeenayub
-<br>
-Phone Number: +1 804-489-3632
 <br>
 [Google Scholar](https://scholar.google.com/citations?user=w147R8UAAAAJ&hl=en)
 
@@ -33,7 +33,6 @@ Awards and Honors
 * Outstanding Early-career Student Researcher Award 2022, Virginia Commonwealth University
 * Best Paper Award 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom
 * Best Graduate Research Poster Award 8th Annual Women in Cybersecurity (WiCyS) Conference, Denver, CO
-* Won Laptop and internet device in Pakistan’s Prime Minister’s Laptop Scheme (based on class ranking) in 2016
 * Recipient of WiCyS conference scholarship, March 2022
 * Recipient of WiCyS conference scholarship, September 2021
 * Recipient of 2018 (ISC) Women’s Cybersecurity Scholarship
