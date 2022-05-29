@@ -35,6 +35,10 @@ Awards and Honors
 * Best Graduate Research Poster Award 8th Annual Women in Cybersecurity (WiCyS) Conference, Denver, CO
 * Won Laptop and internet device in Pakistan’s Prime Minister’s Laptop Scheme (based on class ranking) in 2016
 * Recipient of WiCyS conference scholarship, March 2022
+* Recipient of WiCyS conference scholarship, September 2021
+* Recipient of 2018 (ISC) Women’s Cybersecurity Scholarship
+* Recipient of 2018 ISSA Foundation (Shon-Harris Memorial) Scholarship
+
 
 Software/Hardware Vulnerability Disclosure:
 --------------
