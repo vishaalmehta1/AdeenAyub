@@ -12,7 +12,7 @@ Github: adeenayub
 <br>
 Phone Number: +1 804-489-3632
 <br>
-Google Scholar [link](https://scholar.google.com/citations?user=he1clHEAAAAJ&hl=en&oi=sra)
+Google Scholar [link](https://scholar.google.com/citations?user=w147R8UAAAAJ&hl=en)
 
 
 Education
@@ -23,13 +23,14 @@ Education
 
 Publications
 ------------
-* [DFRWS EU]. Nauman Zubair, Adeen Ayub, Hyunguk Yoo, Irfan Ahmed, “PEM: Remote Forensic Acquisitionof PLC Memory in Industrial Control Systems”, In the 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom
+* [DFRWS EU]. Nauman Zubair, Adeen Ayub, Hyunguk Yoo, Irfan Ahmed, “PEM: Remote Forensic Acquisitionof PLC Memory in Industrial Control Systems”, In the 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom (Best Paper Award)
 * [WOOT]. Adeen Ayub, Hyunguk Yoo, Irfan Ahmed, “Empirical Study of PLC Authentication Protocols in Industrial Control Systems”, In the 15th IEEE Workshop on Offensive Technologies (WOOT’21), co-located with the 42nd IEEE Symposium on Security and Privacy and in cooperation with Usenix, San Francisco, CA, May 2021 (held virtually)
 * [ICCIP]. Syed Ali Qasim, Adeen Ayub, Jordan Johnson, Irfan Ahmed, “Attacking IEC-61131 Logic Engine in Programmable Logic Controllers in Industrial Control Systems”, In the 15th IFIP International Conference on Critical Infrastructure Protection (ICCIP), March 2021, Arlington, Virginia (held virtually)
 
 
 Awards and Honors
 --------------
+* Outstanding Early-career Student Researcher Award 2022, Virginia Commonwealth University
 * Best Paper Award 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom
 * Best Graduate Research Poster Award 8th Annual Women in Cybersecurity (WiCyS) Conference, Denver, CO
 * Won Laptop and internet device in Pakistan’s Prime Minister’s Laptop Scheme (based on class ranking) in 2016
@@ -38,21 +39,21 @@ Awards and Honors
 Software/Hardware Vulnerability Disclosure:
 --------------
 * CVE-2021-32980, Automation Direct CLICK PLC,
-https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02
+[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
 * CVE-2021-32980, Automation Direct CLICK PLC,
-https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02
+[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
 * CVE-2021-32984, Automation Direct CLICK PLC,
-https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02
+[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
 * CVE-2021-32986, Automation Direct CLICK PLC,
-https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02
+[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
 * CVE-2021-32982, Automation Direct CLICK PLC,
-https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02
+[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
 * CVE-2021-32978, Automation Direct CLICK PLC,
-https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02
+[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
 * CVE-2021-32926, Rockwell Automation Micro800 and MicroLogix 1400 PLCs
-https://us-cert.cisa.gov/ics/advisories/icsa-21-145-02
+[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-145-02)
 * CVE-2020-15791, Siemens S7-300 and S7-400 PLCs,
-https://cert-portal.siemens.com/productcert/pdf/ssa-381684.pdf
+[link](https://cert-portal.siemens.com/productcert/pdf/ssa-381684.pdf)
 
 Technical Workshops and Talks
 ----------
