@@ -48,12 +48,6 @@ Software/Hardware Vulnerability Disclosure:
 * [CVE-2021-32926](https://us-cert.cisa.gov/ics/advisories/icsa-21-145-02), Rockwell Automation Micro800 and MicroLogix 1400 PLCs
 * [CVE-2020-15791](https://cert-portal.siemens.com/productcert/pdf/ssa-381684.pdf), Siemens S7-300 and S7-400 PLCs,
 
-Technical Workshops and Talks
-----------
-* [DFRWS EU]. “Network Forensics of Industrial Control Systems”, In the 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom. (2-hour workshop)
-* [DFRWS]. “Understanding and Subverting PLC Password Authentication in Industrial Control Systems”, In the 20th Annual Digital Forensics Research Conference (DFRWS’20), July 2020, Memphis, TN. (held virtually) (3-minute Lightning Talk)
-
-
 Work Experience
 --------------
 ### Research Assistant at SAFE Lab, Virginia Commonwealth University
@@ -70,6 +64,11 @@ Richmond, Virginia Aug 2021 - Dec 2021
 - Tested the network infrastructure and web applications to find vulnerabilities
 and provided a report of findings
 Richmond, Virginia Oct 2019 - Nov 2019
+
+Technical Workshops and Talks
+----------
+* [DFRWS EU]. “Network Forensics of Industrial Control Systems”, In the 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom. (2-hour workshop)
+* [DFRWS]. “Understanding and Subverting PLC Password Authentication in Industrial Control Systems”, In the 20th Annual Digital Forensics Research Conference (DFRWS’20), July 2020, Memphis, TN. (held virtually) (3-minute Lightning Talk)
 
 Skills
 ------
