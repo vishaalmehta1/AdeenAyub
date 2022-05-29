@@ -6,14 +6,13 @@ Email: [ayuba2@vcu.edu](mailto:ayuba2@vcu.edu)
 <br>
 Phone Number: +1 804-489-3632
 <br>
+[Google Scholar](https://scholar.google.com/citations?user=w147R8UAAAAJ&hl=en)
+<br>
 [LinkedIn](https://www.linkedin.com/in/adeenayub/)
 <br>
 [Twitter](https://twitter.com/adeenayub)
 <br>
 [Github](https://github.com/adeenayub)
-<br>
-[Google Scholar](https://scholar.google.com/citations?user=w147R8UAAAAJ&hl=en)
-
 
 Education
 --------------
@@ -71,32 +70,7 @@ Richmond, Virginia Aug 2021 - Dec 2021
 and provided a report of findings
 Richmond, Virginia Oct 2019 - Nov 2019
 
-
-### Current Project:
-
-Currently working on the Interoperability and Security challenges associated with IoT devices following OneM2M specification. The project include the following spcifications
-* Implementation of Horizontal Layer OneM2M Standard Framework for M2M and IoTs Sensor Nodes on MbedOS running over Nucleo STM32 L476rg boards
-* MQTT client/broker model implementation on Raspbian Jessie OS running over Raspberry Pi 3 Gateway design for IoT Applications which supports multiple service functionalities including
-    - Registration
-    - Security Association and Establishment (SAE)
-    - Data Management and Repository (DMR)
-    -  Access Control Policies (ACPs)
-    -  Subscription and Notification
-    -  Secure MQTT/MQTT-SN Binding
-* Transport Layer Protocol DTLS/UDP and TLS/TCP implementation. 
-* Serialization/de-serialization of JSON request/response packets 
-* DTLS Support for MQTT-SN Multi-threaded Gateway Application
-
 [GitHub Link:](https://github.com/adeenayub) [https://github.com/AikM2M](https://github.com/adeenayub)
-
-
-### Projects Undertaken:
-
-* [HotSoS]. Adeen Ayub, Hyunguk Yoo, Irfan Ahmed, “Empirical Study of PLC Authentication Protocols in Industrial Control Systems”, In the 9th Annual Hot Topics in the Science of Security (HotSoS) Symposium, Urbana-Champagne, Illinois, April 2022. (Presentation)
-* [WiCyS]. Adeen Ayub, Irfan Ahmed, Hyunguk Yoo, “ROP on PLCs”, In the 9th Annual Women in Cybersecurity (WiCyS) Conference, Cleveland, OH, March 2022. 
-* [WiCyS]. Adeen Ayub, Irfan Ahmed, Hyunguk Yoo, “Empirical Analysis of PLC Authentication Protocols in Industrial Control Systems”, In the 8th Annual Women in Cybersecurity (WiCyS) Conference, Denver, CO, September 2021.
-* [WiCyS]. Nixy Camacho, Adeen Ayub, Irfan Ahmed, Hyunguk Yoo, “Automating Binary Analysis of PLCs”, In the 8th Annual Women in Cybersecurity (WiCyS) Conference, Denver, CO, September 2021. (Poster)
-
 
 Skills
 ------
