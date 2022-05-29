@@ -3,7 +3,8 @@
 ---
 
 Email: [ayuba2@vcu.edu](mailto:ayuba2@vcu.edu)
-LinkedIn: [link]
+<br>
+LinkedIn: [link](
 <br>
 Twitter: [link]
 <br>
@@ -19,13 +20,10 @@ About Me
 * Is a PhD student at Virginia Commonwealth University, Richmond, Virginia. Her research interests include device firmware and network protocol reverse engineering, digital forensics and vulnerability discovery in industrial control systems.
 
 
-
 Publications
 ------------
 * [DFRWS EU]. Nauman Zubair, Adeen Ayub, Hyunguk Yoo, Irfan Ahmed, “PEM: Remote Forensic Acquisitionof PLC Memory in Industrial Control Systems”, In the 9th Annual Digital Forensics Research Conference Europe (DFRWS EU’22), March 2022, Oxford, United Kingdom
-
 * [WOOT]. Adeen Ayub, Hyunguk Yoo, Irfan Ahmed, “Empirical Study of PLC Authentication Protocols in Industrial Control Systems”, In the 15th IEEE Workshop on Offensive Technologies (WOOT’21), co-located with the 42nd IEEE Symposium on Security and Privacy and in cooperation with Usenix, San Francisco, CA, May 2021 (held virtually)
-
 * [ICCIP]. Syed Ali Qasim, Adeen Ayub, Jordan Johnson, Irfan Ahmed, “Attacking IEC-61131 Logic Engine in Programmable Logic Controllers in Industrial Control Systems”, In the 15th IFIP International Conference on Critical Infrastructure Protection (ICCIP), March 2021, Arlington, Virginia (held virtually)
 
 
