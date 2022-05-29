@@ -71,8 +71,6 @@ Richmond, Virginia Aug 2021 - Dec 2021
 and provided a report of findings
 Richmond, Virginia Oct 2019 - Nov 2019
 
-[GitHub Link:](https://github.com/adeenayub) [https://github.com/AikM2M](https://github.com/adeenayub)
-
 Skills
 ------
 
