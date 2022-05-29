@@ -15,10 +15,11 @@ Phone Number: +1 804-489-3632
 Google Scholar [link](https://scholar.google.com/citations?user=he1clHEAAAAJ&hl=en&oi=sra)
 
 
-About Me
+Education
 --------------
-* Is a PhD student at Virginia Commonwealth University, Richmond, Virginia. Her research interests include device firmware and network protocol reverse engineering, digital forensics and vulnerability discovery in industrial control systems.
-
+* PhD in Computer Science: (in progress) at Virginia Commonwealth University, VA, USA
+* M.S. in Cyber Security, New York University, NY, USA
+* B.E. Software Engineering, National University of Sciences and Technology, Pakistan
 
 Publications
 ------------
