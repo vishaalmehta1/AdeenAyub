@@ -93,6 +93,7 @@ Skills
 * Meterpreter 
 * JohnTheRipper 
 * HashcatScapy 
+* Scapy
 * Wireshark 
 * Dirbuster
 
