@@ -4,9 +4,9 @@
 
 Email: [ayuba2@vcu.edu](mailto:ayuba2@vcu.edu)
 <br>
-LinkedIn: [link](
+[LinkedIn]:(https://www.linkedin.com/in/adeenayub/)
 <br>
-Twitter: [link]
+[Twitter]:(https://twitter.com/adeenayub)
 <br>
 Github: adeenayub
 <br>
@@ -42,22 +42,13 @@ Awards and Honors
 
 Software/Hardware Vulnerability Disclosure:
 --------------
-* CVE-2021-32980, Automation Direct CLICK PLC,
-[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
-* CVE-2021-32980, Automation Direct CLICK PLC,
-[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
-* CVE-2021-32984, Automation Direct CLICK PLC,
-[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
-* CVE-2021-32986, Automation Direct CLICK PLC,
-[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
-* CVE-2021-32982, Automation Direct CLICK PLC,
-[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
-* CVE-2021-32978, Automation Direct CLICK PLC,
-[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02)
-* CVE-2021-32926, Rockwell Automation Micro800 and MicroLogix 1400 PLCs
-[link](https://us-cert.cisa.gov/ics/advisories/icsa-21-145-02)
-* CVE-2020-15791, Siemens S7-300 and S7-400 PLCs,
-[link](https://cert-portal.siemens.com/productcert/pdf/ssa-381684.pdf)
+* [CVE-2021-32980](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02) , Automation Direct CLICK PLC,
+* [CVE-2021-32984](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02), Automation Direct CLICK PLC,
+* [CVE-2021-32986](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02), Automation Direct CLICK PLC,
+* [CVE-2021-32982](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02), Automation Direct CLICK PLC,
+* [CVE-2021-32978](https://us-cert.cisa.gov/ics/advisories/icsa-21-166-02), Automation Direct CLICK PLC,
+* [CVE-2021-32926](https://us-cert.cisa.gov/ics/advisories/icsa-21-145-02), Rockwell Automation Micro800 and MicroLogix 1400 PLCs
+* [CVE-2020-15791](https://cert-portal.siemens.com/productcert/pdf/ssa-381684.pdf), Siemens S7-300 and S7-400 PLCs,
 
 Technical Workshops and Talks
 ----------
