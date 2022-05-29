@@ -4,15 +4,15 @@
 
 Email: [ayuba2@vcu.edu](mailto:ayuba2@vcu.edu)
 <br>
-LinkedIn:[LinkedIn](https://www.linkedin.com/in/adeenayub/)
+[LinkedIn](https://www.linkedin.com/in/adeenayub/)
 <br>
-Twitter:[Twitter](https://twitter.com/adeenayub)
+[Twitter](https://twitter.com/adeenayub)
 <br>
 Github: adeenayub
 <br>
 Phone Number: +1 804-489-3632
 <br>
-Google Scholar [link](https://scholar.google.com/citations?user=w147R8UAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=w147R8UAAAAJ&hl=en)
 
 
 Education
