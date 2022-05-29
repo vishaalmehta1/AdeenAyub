@@ -65,6 +65,7 @@ Richmond, Virginia Feb 2020 - Current
 - Worked as TA for Fundamentals Software Engineer. Assisted Professor in
 grading assignments and holding labs
 Richmond, Virginia Aug 2021 - Dec 2021
+
 ### Contract Penetration Tester at Defiant, Inc
 - Tested the network infrastructure and web applications to find vulnerabilities
 and provided a report of findings
