@@ -10,7 +10,7 @@ Phone Number: +1 804-489-3632
 <br>
 [Twitter](https://twitter.com/adeenayub)
 <br>
-Github: adeenayub
+[Github](https://github.com/adeenayub)
 <br>
 [Google Scholar](https://scholar.google.com/citations?user=w147R8UAAAAJ&hl=en)
 
