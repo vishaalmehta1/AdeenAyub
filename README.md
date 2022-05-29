@@ -106,16 +106,3 @@ Skills
 * LaTeX 
 * GitHub 
 * MySQL
-
-Major Subjects
---------------
-* Network Security   
-* Simulation Modeling and Analysis
-* Design and Analysis of Algorithms
-* Image and Video Processing   
-* Digital Electronic Circuits
-* Data Strucutres
-* Machine Learning
-* Optimization Theory 
-* Computer Networking
-* Advance Operating System
